@@ -1,4 +1,5 @@
 # Bienvenue sur mon profil GitHub, je suis Duapar! 👋
+![]https://dcbadge.vercel.app/api/shield/768812636606300210
 
 ## À propos de moi
 Je suis un étudiant en 3e année à Epitech et un développeur passionné. J'ai obtenu mon BTS SIO et j'ai une passion pour la programmation et l'administration de serveurs.
