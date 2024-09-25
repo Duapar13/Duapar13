@@ -1,4 +1,4 @@
-# Bienvenue sur mon profil GitHub, je suis Duapar! 👋
+# Bienvenue sur mon profil GitHub, je suis Bastien RAPAUD! 👋
 ![](https://dcbadge.vercel.app/api/shield/768812636606300210)
 
 ## À propos de moi
