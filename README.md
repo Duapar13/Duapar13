@@ -1,7 +1,7 @@
 <H1 align = "center">👋 It's me Toni ! :student:	</h1>
 
 
-![discordbadge](https://dcbadge.vercel.app/api/shield/255061967977447433)
+![discordbadge](https://lobobot.com/box/tft/tVleEHVtxFWFwOXL)
 | <img src="https://c.tenor.com/mKRV-5rBGYgAAAAC/tenor.gif" alt="ahatintimedancing" width="150" height="150"> | Dancing ~~<br> |
 | --- | ------------- |
 
