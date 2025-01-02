@@ -8,4 +8,4 @@ Tout le code que je touche se transforme en magie, surtout quand il crash (ça a
 
 ## TFT PLAYER
 
-!  ( https://ibb.co/KV8nnRc )
+![LoboBot Preview](https://ibb.co/KV8nnRc)
