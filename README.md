@@ -1,4 +1,4 @@
-# Welcome to **Master TFT** 🎉
+# Welcome to **Duapar** 🎉
 
 ## **About Me** 🧑‍💻
 
