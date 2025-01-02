@@ -7,3 +7,5 @@ Oui, je suis le boss, mais je préfère que tu m’appelles "le roi des requête
 Tout le code que je touche se transforme en magie, surtout quand il crash (ça arrive, mais chut... 🤫).
 
 ## TFT PLAYER
+
+!  ( https://ibb.co/KV8nnRc )
