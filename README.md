@@ -1,4 +1,5 @@
 # Welcome to **Duapar** 🎉
+![discordbadge] (https://lobobot.com/box/tft/tVleEHVtxFWFwOXL)
 
 ## **About Me** 🧑‍💻
 
