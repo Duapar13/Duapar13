@@ -93,16 +93,6 @@ Un écosystème de plugins Spigot qui partagent leurs services entre eux via **D
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Duapar13&hide_border=true&background=0D1117&ring=FF3355&fire=FFC300&currStreakLabel=FF3355" alt="Streak GitHub" />
-
-</div>
-
----
-
 <div align="center">
 
 📧 [brapaud13008@gmail.com](mailto:brapaud13008@gmail.com) · 📍 Marseille, France
