@@ -97,12 +97,7 @@ Un écosystème de plugins Spigot qui partagent leurs services entre eux via **D
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Duapar13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3355&icon_color=FFC300&text_color=E6E6E6" alt="Stats GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duapar13&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3355&text_color=E6E6E6" alt="Top langages" height="165" />
-
 <img src="https://streak-stats.demolab.com/?user=Duapar13&hide_border=true&background=0D1117&ring=FF3355&fire=FFC300&currStreakLabel=FF3355" alt="Streak GitHub" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Duapar13&no-frame=true&row=1&column=7&title-color=E6E6E6&icon-color=FF3355&background-color=0D1117" alt="Trophées GitHub" />
 
 </div>
 
