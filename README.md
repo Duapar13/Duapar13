@@ -21,7 +21,7 @@ Développeur backend/fullstack, diplômé Bac+5 (Epitech, MSC 2026), spécialis�
 **Alternance — IP Soft** · *Avril 2026 – Aujourd'hui*
 Développement et maintenance d'outils métier retail sur un ERP WinDev/MySQL : conception d'un système d'audit sous MongoDB, règles de fusion d'articles en WLangage, participation à la transition de modules vers .NET/C#, intervention sur des bases de données de production.
 
-**Alternance — High Base Code** · *Janvier 2023 – Décembre 2024*
+**Alternance — High Base Code** · *Janvier 2023 – Décembre 2025*
 Création et gestion de ma propre entreprise : administration et sécurisation d'un serveur Debian, développement Full-Stack (Node.js backend + Nuxt.js frontend), protection des bases MySQL contre les vulnérabilités courantes.
 
 ---
