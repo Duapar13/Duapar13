@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF3355&center=true&vCenter=true&width=700&lines=Salut%2C+moi+c'est+Bastien+%21;D%C3%A9veloppeur+Full-stack+%C2%B7+Angular+%2B+.NET;Je+migre+un+ERP+retail+vers+le+web+moderne;Et+je+code+des+apps+et+des+plugins+Minecraft+le+soir" alt="Bastien RAPAUD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF3355&center=true&vCenter=true&width=700&lines=Salut%2C+moi+c'est+Bastien+%21;D%C3%A9veloppeur+Full-stack+%C2%B7+Angular+%2B+.NET;Angular+%2B+.NET+au+quotidien+moderne;Et+je+code+des+apps+et+des+plugins+Minecraft+le+soir" alt="Bastien RAPAUD" />
 
 **Développeur Full-stack — Marseille, France 🇫🇷**
 
@@ -18,25 +18,15 @@
 
 Je suis développeur full-stack, diplômé **Bac+5 d'Epitech (MSC, 2026)**. Je conçois des applications de A à Z : l'interface (**Angular**, React), l'API (**.NET / C#**, Node.js), la base de données (**MySQL**, MongoDB) et la mise en ligne.
 
-- 🏢 **En alternance chez IP Soft**, je participe à la refonte d'un logiciel de gestion de magasins (ERP « retail ») : on remplace progressivement l'ancien logiciel desktop (WinDev) par une application web moderne, **Angular + .NET**.
+- 🏢 **En alternance**, je développe des applications web professionnelles avec **Angular** et **.NET**.
 - 🎮 **Le soir**, je crée mes propres projets : applications mobiles, jeux web, et une suite de plugins Minecraft en open source.
-- 🌱 **J'aime** : écrire du code propre et testé, rendre un outil complexe simple à utiliser, et apprendre en livrant de vrais projets.
 
 ---
 
 ## 💼 Expérience
 
-### IP Soft — Alternance · *Avril 2026 → aujourd'hui*
-
-Je travaille sur la **migration d'un ERP retail** (gestion de stocks, logistique, ventes, statistiques) :
-
-| Ce que je fais | Avec quoi |
-|---|---|
-| Refaire les écrans de l'ancien logiciel en **application web** (listes, formulaires, tableaux de bord, plannings en glisser-déposer) | Angular, PrimeNG, signaux, TypeScript |
-| Construire l'**API** : calculs de statistiques, listes de logistique, gestion des stocks et des documents | .NET 10, C#, ASP.NET Core, Entity Framework Core, MySQL |
-| **Sécuriser** l'application : connexion, sessions, droits par utilisateur, limitation des abus | JWT, cookies HttpOnly, règles d'accès |
-| **Tester** ce que je livre : des milliers de tests automatiques, vérifiés aussi dans le navigateur | xUnit, Vitest, Chrome DevTools |
-| Relire et **auditer la logique métier** pour corriger les écarts avec l'existant | Analyse de code WinDev / WLangage, MongoDB pour un système d'audit |
+**IP Soft — Alternance** · *Avril 2026 → aujourd'hui*
+Développeur full-stack : applications web métier en **Angular** et **.NET**, bases de données **MySQL**, tests automatiques.
 
 ---
 
