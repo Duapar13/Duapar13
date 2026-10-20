@@ -1,28 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF3355&center=true&vCenter=true&width=650&lines=Salut%2C+moi+c'est+Bastien+%21;Developpeur+Backend+%2F+Fullstack;Node.js+.+Java+.+C%23+.+SQL+%26+NoSQL;Createur+de+la+suite+D(nom)+pour+Minecraft" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=FF3355&center=true&vCenter=true&width=700&lines=Salut%2C+moi+c'est+Bastien+%21;D%C3%A9veloppeur+Full-stack+%C2%B7+Angular+%2B+.NET;Je+migre+un+ERP+retail+vers+le+web+moderne;Et+je+code+des+apps+et+des+plugins+Minecraft+le+soir" alt="Bastien RAPAUD" />
 
-### Développeur Backend / Fullstack — Marseille, France 🇫🇷
+**Développeur Full-stack — Marseille, France 🇫🇷**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
 ---
 
-## 🧑‍💻 À propos
+## 👋 En bref
 
-Développeur backend/fullstack, diplômé Bac+5 (Epitech, MSC 2026), spécialisé **Node.js**, bases de données relationnelles et NoSQL, et sécurisation d'API. Expérience concrète en environnement de production sur un ERP retail (WinDev / MySQL / MongoDB).
+Je suis développeur full-stack, diplômé **Bac+5 d'Epitech (MSC, 2026)**. Je conçois des applications de A à Z : l'interface (**Angular**, React), l'API (**.NET / C#**, Node.js), la base de données (**MySQL**, MongoDB) et la mise en ligne.
 
-🎮 En parallèle, je développe **D(nom)**, une suite de plugins Minecraft/Spigot reliés entre eux via un registre de services partagé façon Vault.
+- 🏢 **En alternance chez IP Soft**, je participe à la refonte d'un logiciel de gestion de magasins (ERP « retail ») : on remplace progressivement l'ancien logiciel desktop (WinDev) par une application web moderne, **Angular + .NET**.
+- 🎮 **Le soir**, je crée mes propres projets : applications mobiles, jeux web, et une suite de plugins Minecraft en open source.
+- 🌱 **J'aime** : écrire du code propre et testé, rendre un outil complexe simple à utiliser, et apprendre en livrant de vrais projets.
 
 ---
 
-## 💼 Expériences
+## 💼 Expérience
 
-**Alternance — IP Soft** · *Avril 2026 – Aujourd'hui*
-Développement et maintenance d'outils métier retail sur un ERP WinDev/MySQL : conception d'un système d'audit sous MongoDB, règles de fusion d'articles en WLangage, participation à la transition de modules vers .NET/C#, intervention sur des bases de données de production.
+### IP Soft — Alternance · *Avril 2026 → aujourd'hui*
 
-**Alternance — High Base Code** · *Janvier 2023 – Décembre 2025*
-Création et gestion de ma propre entreprise : administration et sécurisation d'un serveur Debian, développement Full-Stack (Node.js backend + Nuxt.js frontend), protection des bases MySQL contre les vulnérabilités courantes.
+Je travaille sur la **migration d'un ERP retail** (gestion de stocks, logistique, ventes, statistiques) :
+
+| Ce que je fais | Avec quoi |
+|---|---|
+| Refaire les écrans de l'ancien logiciel en **application web** (listes, formulaires, tableaux de bord, plannings en glisser-déposer) | Angular, PrimeNG, signaux, TypeScript |
+| Construire l'**API** : calculs de statistiques, listes de logistique, gestion des stocks et des documents | .NET 10, C#, ASP.NET Core, Entity Framework Core, MySQL |
+| **Sécuriser** l'application : connexion, sessions, droits par utilisateur, limitation des abus | JWT, cookies HttpOnly, règles d'accès |
+| **Tester** ce que je livre : des milliers de tests automatiques, vérifiés aussi dans le navigateur | xUnit, Vitest, Chrome DevTools |
+| Relire et **auditer la logique métier** pour corriger les écarts avec l'existant | Analyse de code WinDev / WLangage, MongoDB pour un système d'audit |
 
 ---
 
@@ -31,70 +45,101 @@ Création et gestion de ma propre entreprise : administration et sécurisation d
 - **MSC** — Epitech, Marseille *(Bac+5, 2026)*
 - **preMSC** — Epitech, Marseille *(Bac+3)*
 - **BTS SIO** *(Bac+2)*
-- **BAC STMG SIG** — Lycée Marie Curie, Marseille *(mention Bien)*
+- **Bac STMG SIG** — Lycée Marie Curie, Marseille *(mention Bien)*
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Compétences
 
-**Backend & API**
+**Interface (front)**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![WLangage](https://img.shields.io/badge/WLangage-1E3A5F?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-6366F1?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Serveur (back)**
+
+![.NET](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 
 **Bases de données**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Frontend**
+**Qualité & outils**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Langages & Outils**
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🚀 Projets perso
 
-**Autres**
+| Projet | C'est quoi ? | Technos |
+|---|---|---|
+| 🏋️ [**Tanren**](https://github.com/Duapar13/Tanren) | App de suivi de musculation : séances, performances, progression dans le temps. | Expo, React Native, Node.js, MariaDB |
+| 🌙 [**Lunara**](https://github.com/Duapar13/Lunara) | Marketplace mobile de tarologues : chat, visio, paiement Stripe, avis vérifiés. | Expo, Node.js, Stripe |
+| 🎯 [**Mushin**](https://github.com/Duapar13/Mushin) | Suivi des habitudes de jeu sur Counter-Strike 2, pour progresser en restant dans le « flow ». | Expo, React Native, SQLite |
+| 🎮 **D(nom)** — [suite de plugins Minecraft](#-suite-minecraft--dnom) | Une trentaine de plugins Spigot qui communiquent entre eux (factions, économie, boutique, tickets…). | Java, Spigot |
+| 🧟 **ExpZ** 🔒 | Jeu mobile 3D de survie multijoueur (iPhone, iPad, Android). | Expo, TypeScript, Node.js, PostgreSQL, Docker |
+| 🐉 **FarmMonster** 🔒 | RPG de monstres en pixel art, jouable dans le navigateur et sur mobile. | Node.js, Canvas, SQLite |
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+> 🔒 Ces deux projets restent privés pour l'instant : ils utilisent des ressources graphiques sous licence qui ne sont pas redistribuables.
+> Tout le reste est **open source (MIT)**.
 
 ---
 
 ## 🎮 Suite Minecraft — D(nom)
 
-Un écosystème de plugins Spigot qui partagent leurs services entre eux via **DAPI**, un registre façon Vault.
+Des plugins Spigot qui partagent leurs services via **[DAPI](https://github.com/Duapar13/DAPI)**, un registre façon Vault : chaque plugin publie ou consomme des services sans dépendre du code des autres.
 
-| Plugin | Description |
+| Plugin | Rôle |
 |---|---|
-| [**DAPI**](https://github.com/Duapar13/DAPI) | Registre de services partagé pour toute la suite D(nom) — chaque plugin publie/consomme des services sans dépendre du code des autres. |
-| [**DFaction**](https://github.com/Duapar13/DFaction) | Plugin de factions open source : claims par chunk, power, protection anti-grief, raid TNT. |
-| [**DWorldEdit**](https://github.com/Duapar13/DWorldEdit) | Outil d'édition de monde façon WorldEdit (`//set`, `//cut`, `//walls`, `//replace`, `//sphere`), fournit SelectionService via DAPI. |
-| [**DGuard**](https://github.com/Duapar13/DGuard) | Régions protégées façon WorldGuard, créées depuis une sélection DWorldEdit via DAPI. |
-| [**DTicket**](https://github.com/Duapar13/DTicket) | Système de tickets de support in-game, GUI + webhook Discord, relié à DAPI. |
-| [**DEconomy**](https://github.com/Duapar13/DEconomy) | Système d'économie (comptes, `/money`, `/pay`) avec EconomyService partagé via DAPI. |
+| [**DAPI**](https://github.com/Duapar13/DAPI) | Le registre de services partagé, cœur de la suite. |
+| [**DCore**](https://github.com/Duapar13/DCore) | Les essentiels d'un serveur : homes, warps, kits, téléportations… |
+| [**DFaction**](https://github.com/Duapar13/DFaction) | Factions : claims par chunk, power, protection anti-grief, raids. |
+| [**DEconomy**](https://github.com/Duapar13/DEconomy) · [**DShop**](https://github.com/Duapar13/DShop) · [**DAuction**](https://github.com/Duapar13/DAuction) | Argent, boutique serveur et hôtel des ventes. |
+| [**DGuard**](https://github.com/Duapar13/DGuard) · [**DWorldEdit**](https://github.com/Duapar13/DWorldEdit) | Régions protégées et édition de monde. |
+| [**DTicket**](https://github.com/Duapar13/DTicket) · [**DPunish**](https://github.com/Duapar13/DPunish) | Support joueurs (webhook Discord) et sanctions. |
+| [**DCombat**](https://github.com/Duapar13/DCombat) · [**DArena**](https://github.com/Duapar13/DArena) · [**DDuel**](https://github.com/Duapar13/DDuel) | PvP : tag de combat, arènes, duels. |
+| …et [une dizaine d'autres](https://github.com/Duapar13?tab=repositories&q=&type=source&language=java) | Classes, rangs, primes, caisses, votes, hologrammes… |
 
 ---
 
-<div align="center">
+## 📫 Me contacter
 
 📧 [brapaud13008@gmail.com](mailto:brapaud13008@gmail.com) · 📍 Marseille, France
+
+<div align="center">
+
+*Merci de votre visite ! ⭐ Un projet vous intéresse ? Ouvrez une issue ou écrivez-moi.*
 
 </div>
